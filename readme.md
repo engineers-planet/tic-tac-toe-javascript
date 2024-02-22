@@ -10,12 +10,6 @@ This week we have been learning about writing functions, working with loops, and
 - Use best practices when writing code, DRY (Do Not Repeat Yourself) code is always a better option
 - Create a portfolio worthy project with your own personal style
 
-## What You'll Be Building
-Feel free to implement your own style or theme when building your game, it might be something you want to put on a portfolio showing off your skills!
-- [Simple Example](https://chalk-tac-toe.surge.sh/)
-- [Advanced Example](https://playtictactoe.org/)
-
-
 ## Getting Started
 
 - Fork and clone this repository.
@@ -44,5 +38,3 @@ Feel free to implement your own style or theme when building your game, it might
 - Make your computer seem more human by adding a short time delay between your turn and the computer's turn.
 - Style it up! Get creative, or even make a theme!
 
-## Submission Guidelines
-- Pull Request must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
